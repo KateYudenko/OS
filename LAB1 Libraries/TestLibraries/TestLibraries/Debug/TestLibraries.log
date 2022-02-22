@@ -1,0 +1,6 @@
+﻿  Test.cpp
+C:\Users\kates\Studying\operating systems\Vector\Vector\Vector.h(12,10): warning C4251: Vector::x: class "Number" должен иметь dll-интерфейс для использования клиентами class "Vector"
+C:\Users\kates\Studying\operating systems\Number\Number\Number.h(3): message : см. объявление "Number"
+C:\Users\kates\Studying\operating systems\Vector\Vector\Vector.h(12,13): warning C4251: Vector::y: class "Number" должен иметь dll-интерфейс для использования клиентами class "Vector"
+C:\Users\kates\Studying\operating systems\Number\Number\Number.h(3): message : см. объявление "Number"
+  TestLibraries.vcxproj -> C:\Users\kates\Studying\operating systems\TestLibraries\Debug\TestLibraries.exe
